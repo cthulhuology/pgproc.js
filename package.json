@@ -1,0 +1,21 @@
+{
+	"author": "David Goehrig",
+	"name": "pgproc",
+	"license" : "MIT",
+	"description": "Maps Postgresql stored procedures to Javascript fucntions",
+	"version": "0.0.1",
+	"repository": {
+		"url": "http://github.com/cthulhuology/pgproc.js"
+	},
+	"main": "./lib/pgproc.js",
+	"bin": { },
+	"dependencies": {
+		"pg": ">=2.8.3"
+ 	},
+	"devDependencies": {},
+	"optionalDependencies": {},
+	"engines": {
+		"node": ">=0.10"
+	}
+}
+
