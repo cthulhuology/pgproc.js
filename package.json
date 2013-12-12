@@ -3,7 +3,7 @@
 	"name": "pgproc",
 	"license" : "MIT",
 	"description": "Maps Postgresql stored procedures to Javascript fucntions",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"repository": {
 		"url": "http://github.com/cthulhuology/pgproc.js"
 	},
